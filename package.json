@@ -1,0 +1,27 @@
+{
+  "name": "vscode-theme-reco",
+  "displayName": "Reco Theme",
+  "description": "This Theme as much as possible according to vuepress-theme-reco.",
+  "publisher": "recoluan",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Reco Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reco-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/recoluan/vscode-theme-reco"
+  },
+  "icon": ".github/icon.png"
+}
