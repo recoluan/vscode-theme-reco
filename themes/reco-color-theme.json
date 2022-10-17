@@ -2036,7 +2036,7 @@
     "tab.activeForeground": "#d6d6dd",
     "tab.border": "#0c0c0c",
     "tab.activeBackground": "#363b46",
-    "tab.activeBorderTop": "#4954E6",
+    "tab.activeBorder": "#4954E6",
     "tab.inactiveBackground": "#363b46",
     "tab.inactiveForeground": "#d6d6dd",
     "tab.hoverForeground": "#d6d6dd",
@@ -2138,6 +2138,7 @@
     "commandCenter.foreground": "#c1c1c1",
     "commandCenter.activeBackground": "#1d1d1d",
 
+    // 标题栏
     "titleBar.activeBackground": "#363b46",
     "titleBar.activeForeground": "#f4f4f4",
     "titleBar.inactiveBackground": "#3c3b3c",
